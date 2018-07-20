@@ -1,0 +1,5 @@
+CPU processing unit
+keyboard
+monitor
+mouse UI
+okay
